@@ -24,13 +24,13 @@ cv:
     Education:
       - institution: Université de Lille
         location: Lille, France
-        #url: 
+        #url:
         area: Computer Science - Machine Learning
         studyType: Master Machine Learning
         start_date: 2024
         end_date: 2026
         #score: ""
-        #courses: 
+        #courses:
         highlights:
           - Deep learning, reinforcement learning,
           - Data analysis,
@@ -54,7 +54,7 @@ cv:
         start_date: 2020
         end_date: 2022
         highlights:
-          - Mathematics, computer science, 
+          - Mathematics, computer science,
           - Geopolitics, humanities and languages.
 
     Experience:
@@ -107,14 +107,14 @@ cv:
         end_date: 2024
         summary: Designed 3D environments and organized Minecraft online events for companies' promotions.
         highlights:
-          - Designed and developed interactive 3D environments and custom maps for competitive Minecraft online events. 
+          - Designed and developed interactive 3D environments and custom maps for competitive Minecraft online events.
           - Managed a five-member creative team in a fully remote setting.
           - Liaised with clients to define and finalize project specifications.
           - Set up and configured turnkey servers for seamless event execution.
 
     Volunteer:
       - company: Université Grenoble Alpes
-        position: Mathematics and Computer science tutor (Bachelor level) 
+        position: Mathematics and Computer science tutor (Bachelor level)
         location: Grenoble, France
         start_date: 2023
         end_date: 2024
@@ -123,7 +123,6 @@ cv:
           - Mathematics tutoring in probability, linear algebra, and statistics,
           - Code review in Java for computer science projects,
 
-    
     Skills:
       - name: Machine Learning
         level: Master
@@ -140,14 +139,13 @@ cv:
         icon: fa-solid fa-hashtag
         keywords: "Document research, Teamwork, Communication"
 
-
     Languages:
       - name: French
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent (C1)"
-      
+
       - name: German
 
     Interests:
@@ -162,7 +160,5 @@ cv:
     Certificates:
       - name: TOEIC (C1)
         date: 2025-11-22
-        #issuer: 
+        #issuer:
         icon: fa-solid fa-location-dot
-
-

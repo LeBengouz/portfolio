@@ -27,7 +27,6 @@ The project was built around MLflow and covered several stages of the model life
 - exposing predictions through an **API**,
 - connecting the selected model to an application.
 
-
 ## Key Takeaways
 
 This project introduced me to the practical use of ML in industry. It showed me how those projects can be structured beyond notebooks. It helped me understand how to keep track of model runs, compare different approaches, organize model deployment and connect a trained model to an application through an API. Moreover, I enjoyed working on this project, which made me want to pursue similar projects in the future.

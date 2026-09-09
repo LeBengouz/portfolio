@@ -31,7 +31,6 @@ Hi, I'm Benjamin Olive, a recent Master's graduate in Computer Science specializ
 
 Throughout my studies and past experiences, I’ve always enjoyed tackling complex problems. My main interests lie in AI, deep learning, and computer vision. But beyond the professional side, I truly value teamwork. It is something I’ve had the chance to develop while leading various freelance projects. I love creating things from scratch and learning by doing.
 
-I am currently looking for a Machine Learning Engineer or Data Scientist position where I can combine my background, software skills, and curiosity to contribute building valuable systems. 
+I am currently looking for a Machine Learning Engineer or Data Scientist position where I can combine my background, software skills, and curiosity to contribute building valuable systems.
 
 Feel free to explore my projects, learn more about my background, or reach out to me through the links provided.
-

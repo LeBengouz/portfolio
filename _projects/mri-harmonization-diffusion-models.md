@@ -47,7 +47,6 @@ Two anatomical guidance strategies were explored:
 Architecture of the 3D diffusion model guided by an embedding and an anatomical representation.
 </div>
 
-
 The project also investigated the integration of **MR-CLIP** representations for acquisition-site conditioning.
 
 ## Research Contribution
@@ -69,4 +68,3 @@ The implementation was developed mainly with **PyTorch and Hugging Face Diffuser
 ## Key Takeaways
 
 This internship gave me hands-on experience with **diffusion models, medical imaging, and research-oriented deep learning**. It taught me how to design and build an end-to-end project by myself. Moreover, it taught me how to evaluate, compare, and critically interpret results.
-

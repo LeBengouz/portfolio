@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: OLIVE
-middle_name: 
+middle_name:
 last_name: Benjamin
 contact_note: >
   Please feel free to contact me through any of the provided channels. Open to Data Science and Machine Learning opportunities.
@@ -168,8 +168,6 @@ giscus:
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
-
 
 # -----------------------------------------------------------------------------
 # Newsletter

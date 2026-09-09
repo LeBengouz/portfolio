@@ -25,13 +25,11 @@ Using **FIFA 2025 player data**, I worked through four main stages:
 
 The goal was to obtain good predictive performance, but also to understand **preprocessing choices, feature and model selection**.
 
-
 ## Data & Feature Engineering
 
 The initial dataset contained **more than 18,000 players and 79 attributes**, including player characteristics, technical abilities, club information, wages, market values...
 
 Since some attributes were missing, two datasets had to be merged by matching player's ID.
-
 
 The preprocessing pipeline included:
 
@@ -39,14 +37,11 @@ The preprocessing pipeline included:
 - **new features**: creating age groups, BMI, broader player roles, and aggregated football skill scores.
 - **Transforming features**: discretizing features into meaningful categories, standardizing features, and encoding categorical variables.
 
-
 ## Unsupervised Learning
 
-I compared several clustering approaches, including **K-Means, DBSCAN and Ward hierarchical clustering**. The experiments highlighted the difficulty of finding clearly interpretable groups in high-dimensional and heterogeneous player data. 
+I compared several clustering approaches, including **K-Means, DBSCAN and Ward hierarchical clustering**. The experiments highlighted the difficulty of finding clearly interpretable groups in high-dimensional and heterogeneous player data.
 
 I also used cluster similarity as a simple **recommendation system**. Then, one can find the player closest to another one. For example, Kylian Mbappé could be replaced by **Vinícius Júnior** based on algorithms that identify the nearest profile.
-
-
 
 ## Prediction & Model Comparison
 
@@ -73,4 +68,3 @@ Feature-correlation analysis for player-value prediction.
 ## AutoML
 
 Finally, I used **TPOT** to explore automated machine learning and compare automatically generated pipelines with the manually designed workflow from the previous experiments.
-
