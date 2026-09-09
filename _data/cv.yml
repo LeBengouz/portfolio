@@ -2,7 +2,7 @@ cv:
   name: Benjamin Olive
   #label: Scientist
   email: olivebenjamin38@gmail.com
-  phone: 0787600169
+  phone: "+33787600169"
   location: Lille
   image: ""
   summary: Master’s graduate in Computer Science with a focus on Machine Learning and a multidisciplinary background. Enjoy AI and problem-solving, I seek roles in developing ML solutions and transforming data into valuable insights.
@@ -11,7 +11,7 @@ cv:
     - network: GitHub
       username: LeBengouz
     - network: LinkedIn
-      username: Benjamin Olive
+      username: benjamin-ol
 
   #address:
   #  street: 2712 Broadway St
@@ -61,8 +61,8 @@ cv:
       - company: CHU Lille, LIIFE team
         position: AI Research Intern,
         location: Lille, france
-        start_date: Mar.
-        end_date: Aug. 2026
+        start_date: 2026-03
+        end_date: 2026-08
         summary: End-of-studies internship applied to MRI scan harmonization using diffusion models.
         highlights:
           - Conducted research on image generation algorithms for MRI scan harmonization,
@@ -72,8 +72,8 @@ cv:
       - company: ATOS-EVIDEN
         position: Data Management Intern
         location: Grenoble, France
-        start_date: Jan.
-        end_date: May 2024 
+        start_date: 2024-01
+        end_date: 2024-05
         summary: 160-hour work-study internship in Data Management applied to HPC.
         highlights:
           - Automatic extraction of features from I/O time series using tsfresh (Python),
@@ -83,8 +83,8 @@ cv:
       - company: Laboratoire Jean Kuntzmann (LJK)
         position: Mathematics Research Intern
         location: Grenoble, France
-        start_date: Oct.
-        end_date: Jan. 2024
+        start_date: 2023-10
+        end_date: 2024-01
         summary: 160-hour work-study internship in mathematical research focused on developing AI loss functions.
         highlights:
           - Literature review on tree comparison metrics for the SHERBET ANR project,
@@ -93,8 +93,8 @@ cv:
       - company: Research Laboratory in Linguistics and Language Teaching (LIDILEM)
         position: Research Intern
         location: Grenoble, France
-        start_date: May
-        end_date: June 2023
+        start_date: 2023-05
+        end_date: 2023-06
         summary: Licence Internship to build a database system for researchers.
         highlights:
           - Designed and implemented a relational database prototype.
