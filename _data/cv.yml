@@ -4,9 +4,7 @@ cv:
   email: olivebenjamin38@gmail.com
   phone: "+33787600169"
   location: Lille
-  image: ""
-  summary: Master’s graduate in Computer Science with a focus on Machine Learning and a multidisciplinary background. Enjoy AI and problem-solving, I seek roles in developing ML solutions and transforming data into valuable insights.
-
+  
   social_networks:
     - network: GitHub
       username: LeBengouz
@@ -21,12 +19,15 @@ cv:
   #  countryCode: US
 
   sections:
+    Summary:
+      - Master’s graduate in Computer Science with a focus on Machine Learning and a multidisciplinary background. Enjoy AI and problem-solving, I seek roles in developing ML solutions and transforming data into valuable insights.
+
     Education:
       - institution: Université de Lille
         location: Lille, France
         #url:
         area: Computer Science - Machine Learning
-        studyType: Master Machine Learning
+        degree: Master Machine Learning
         start_date: 2024
         end_date: 2026
         #score: ""
@@ -39,7 +40,7 @@ cv:
       - institution: Université Grenoble Alpes
         location: Grenoble, France
         area: Maths and Informatic applied to Human and Social Sciences (Cognitive Science)
-        studyType: Bachelor (Licence) MIASHS
+        degree: Bachelor (Licence) MIASHS
         start_date: 2022
         end_date: 2024
         highlights:
@@ -50,7 +51,7 @@ cv:
       - institution: Lycée Berthollet
         location: Annecy, France
         area: Economics
-        studyType: Preparatory class (CPGE ECS)
+        degree: Preparatory class (CPGE ECS)
         start_date: 2020
         end_date: 2022
         highlights:
