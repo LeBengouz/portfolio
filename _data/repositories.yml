@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - LeBengouz/COMPASS
   - LeBengouz/MRI_Harmonisation_Diffusion_models
   - LeBengouz/PFE_Clustering_Multivariate_Time_Series
   - LeBengouz/Fouille_Donnees_et_Auto_ML

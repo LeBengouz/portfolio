@@ -3,7 +3,7 @@ layout: page
 title: MLOps for Text Emotion Classification
 description: Student project exploring the operational machine learning lifecycle with MLflow through a text mood classification application.
 img: assets/img/projects/MLFLOW.png
-importance: 1
+importance: 2
 category: fun
 related_publications: false
 ---
