@@ -2,7 +2,7 @@
 layout: page
 title: COMPASS
 description: A RAG-based tool that identifies and maps the prerequisite concepts needed to understand scientific papers.
-img: assets/img/compass.png
+img: assets/projects/COMPASS/logo_COMPASS.png
 importance: 1
 category: fun
 related_publications: false
@@ -12,7 +12,7 @@ related_publications: false
 
 ## Overview
 
-**COMPASS** (*Concept Oriented Mapping of Prerequisites for Academic Scientific Sensemaking*) is a RAG-based tool designed to help readers understand difficult scientific papers.
+**COMPASS** (_Concept Oriented Mapping of Prerequisites for Academic Scientific Sensemaking_) is a RAG-based tool designed to help readers understand difficult scientific papers.
 
 Instead of directly explaining a complex passage, COMPASS identifies the **prerequisite concepts** required to understand it and organizes them into a personalized learning map.
 
@@ -32,7 +32,15 @@ COMPASS parses the document, retrieves relevant context using both the structure
 
 These concepts are then organized as a **directed prerequisite graph**, while concepts already covered by the user's background are excluded.
 
-![Example prerequisite learning map](/assets/projects/COMPASS/learning_map_Attention.png)
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      path="assets/projects/COMPASS/learning_map_Attention.png"
+      title="Example of a COMPASS prerequisite learning map on Attention is all you need"
+      class="img-fluid rounded z-depth-1"
+    %}
+  </div>
+</div>
 
 For each prerequisite, COMPASS provides:
 
