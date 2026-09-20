@@ -2,13 +2,13 @@
 layout: page
 title: COMPASS
 description: A RAG-based tool that identifies and maps the prerequisite concepts needed to understand scientific papers.
-img: assets/projects/COMPASS/logo_COMPASS.png
+img: assets/img/COMPASS/logo_COMPASS.png
 importance: 1
 category: fun
 related_publications: false
 ---
 
-![COMPASS logo](/assets/projects/COMPASS/logo_COMPASS.png)
+![COMPASS logo](/assets/img/COMPASS/logo_COMPASS.png)
 
 ## Overview
 
@@ -35,7 +35,7 @@ These concepts are then organized as a **directed prerequisite graph**, while co
 <div class="row justify-content-sm-center">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
-      path="assets/projects/COMPASS/learning_map_Attention.png"
+      path="assets/img/COMPASS/learning_map_Attention.png"
       title="Example of a COMPASS prerequisite learning map on Attention is all you need"
       class="img-fluid rounded z-depth-1"
     %}
