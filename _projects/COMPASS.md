@@ -7,8 +7,14 @@ importance: 1
 category: fun
 related_publications: false
 ---
-
-![COMPASS logo](/assets/img/COMPASS/logo_COMPASS.png)
+<div class="row justify-content-sm-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      path="assets/img/COMPASS/logo_COMPASS.png"
+      class="img-fluid rounded z-depth-1"
+    %}
+  </div>
+</div>
 
 ## Overview
 
