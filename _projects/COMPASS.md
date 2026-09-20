@@ -12,7 +12,8 @@ related_publications: false
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
       path="assets/img/COMPASS/logo_COMPASS.png"
-      class="img-fluid rounded z-depth-1"
+      alt="COMPASS logo"
+      style="width: 35%; max-width: 400px; height: auto;"
     %}
   </div>
 </div>
