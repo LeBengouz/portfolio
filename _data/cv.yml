@@ -161,5 +161,15 @@ cv:
     Certificates:
       - name: TOEIC (C1)
         date: 2025-11-22
-        #issuer:
+        issuer: "ETS Global"
         icon: fa-solid fa-location-dot
+        summary: "Niveau C1 du CECRL"
+        highlights:
+          - "Score : 955 / 990"
+          - "Identifiant : 6066628983"
+      - name: "Databricks Data Engineer"
+        date: 2026-11-13
+        issuer: "Databricks"
+        url: "https://credentials.databricks.com/55deb04a-1446-4ddb-a571-37985e135253#acc.oCDe3gzl"
+        icon: fa-solid fa-certificate
+        summary: "Proficiency in Databricks and Data Pipelines."
